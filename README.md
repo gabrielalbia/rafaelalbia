@@ -26,22 +26,18 @@ Hello, my name is Gabriel, I am 17 years old and welcome to my profile!
      <img align="left" alt="Gmail" width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" />
 </a>
 
-<a href="mailto:rafaelalbia@outlook.com">
+<a href="mailto:gabrielalbia@outlook.com">
      <img align="left" alt="Outlook" width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/microsoftoutlook.svg" />
 </a>
 
-<a href="https://www.facebook.com/profile.php?id-=100052457674641">
-     <img align="left" alt="Facebook" width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/facebook.svg" />
-</a>
-
-<a href="https://www.linkedin.com/in/rafael-antunes-785127197">
+<a href="https://www.linkedin.com/in/gabriel-martins-677a49203">
      <img align="left" alt="Linkedin" width="35px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linkedin.svg" />
 </a>
 <br>
 
 <h2>About</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalbia&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalbia&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 I’m currently learning: UML, Spring Boot, JPA, Hibernate, MySQL, MongoDB, Drone and Mobile development.
 
